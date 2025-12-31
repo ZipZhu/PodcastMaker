@@ -39,7 +39,7 @@
 
 ```
 PodcastMaker/
-├── 点我运行.bat              # 一键启动
+├── run.bat              # 一键启动
 ├── run.ps1              # 主执行脚本
 ├── make_podcast_edge.py # 核心逻辑
 ├── script.txt           # 播客脚本（主要编辑）
